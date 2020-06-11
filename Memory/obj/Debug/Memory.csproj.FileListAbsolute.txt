@@ -1,0 +1,12 @@
+D:\C#apps\Memory\Memory\bin\Debug\Memory.exe.config
+D:\C#apps\Memory\Memory\bin\Debug\Memory.exe
+D:\C#apps\Memory\Memory\bin\Debug\Memory.pdb
+D:\C#apps\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+D:\C#apps\Memory\Memory\obj\Debug\Memory.MainMenu.resources
+D:\C#apps\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+D:\C#apps\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+D:\C#apps\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+D:\C#apps\Memory\Memory\obj\Debug\Memory.exe
+D:\C#apps\Memory\Memory\obj\Debug\Memory.pdb
+D:\C#apps\Memory\Memory\obj\Debug\Memory.HowToPlay.resources
+D:\C#apps\Memory\Memory\obj\Debug\Memory.Game.resources
